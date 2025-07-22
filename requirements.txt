@@ -1,0 +1,8 @@
+boto3==1.35.92
+opencv-python-headless==4.10.0.84
+# Install segment-anything from GitHub (latest version from the repository)
+git+https://github.com/facebookresearch/segment-anything.git
+torch==2.5.1
+torchvision==0.20.1
+psycopg2-binary==2.9.10
+sklearn==1.5.2
